@@ -1,9 +1,1 @@
-zookeeper‌
-nacos
-python
-node
-docker
-php
-maven
-solr
-jenkins
+zookeeper
