@@ -6,9 +6,9 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 mysql
 redis
-RabbitMQ‌
-Tomcat‌
-Zookeeper‌
+rabbitmq
+tomcat‌
+zookeeper‌
 nacos
 python
 node
