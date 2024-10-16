@@ -1,4 +1,3 @@
-tomcat‌
 zookeeper‌
 nacos
 python
