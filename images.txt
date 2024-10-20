@@ -1,1 +1,4 @@
-nacos
+solr
+jenkins
+python
+kafka
