@@ -1,4 +1,3 @@
-solr
 jenkins
 python
 kafka
